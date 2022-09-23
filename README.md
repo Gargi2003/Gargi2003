@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi 👋, I'm Gargi Bandyopadhyay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargi2003&label=Profile%20views&color=0e75b6&style=flat" alt="gargi2003" /> 
 <h3 align="center">A passionate Full Stack Developer.</h3>
@@ -53,6 +54,7 @@
 <br>
 <br><br>
 <br><br>
+<br>
 <br></p> 
  
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gargi2003&show_icons=true&locale=en" alt="gargi2003" /></p> -->
@@ -63,4 +65,4 @@
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gargi2003&show_icons=true&locale=en" alt="gargi2003" /></p> -->
  
-  
+
