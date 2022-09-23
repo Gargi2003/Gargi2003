@@ -58,7 +58,7 @@
 
 ## Github Stats
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargi2003&" alt="gargi2003" /></p> 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gargi2003&show_icons=true&locale=en" alt="gargi2003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargi2003&" alt="gargi2003" /></p> 
+<span><p>&nbsp;<img style="background-color:black;" align="left" src="https://github-readme-stats.vercel.app/api?username=gargi2003&show_icons=true&locale=en" alt="gargi2003" /></p></span>
  
   
