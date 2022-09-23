@@ -29,7 +29,7 @@
 
 <p align="center">
 
-- 🔭 I’m currently working as **Software Engineer 1 at Dell EMC Bangalore**
+- 🔭 I’m currently working as **Fullstack Engineering Analyst at Accenture**
 
 - 🌱 I’m currently learning **Angular**
 
