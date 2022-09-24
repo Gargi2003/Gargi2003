@@ -35,7 +35,7 @@
 
 - 💬 Ask me about **anything. I would be happy to help.**
 
-- 📫 How to reach me at **gargibanerjee49@gmail.com**
+- 📫 Reach me at **gargibanerjee49@gmail.com**
 
 - ⚡ Apart from coding **I love painting, cooking and singing**
 <br><br>
