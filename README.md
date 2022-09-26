@@ -62,4 +62,16 @@
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gargi2003&show_icons=true&locale=en" alt="gargi2003" /></p> -->
  
+## Projects
+<div>
+<ul>
+<li> <a href="https://lustrous-squirrel-a7ece5.netlify.app/"> ChatApp </a></li>
 
+<a href="https://lustrous-squirrel-a7ece5.netlify.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gargi2003&repo=Realtime-chat-application&theme=solarized-light&layout=compact">
+  <img src="https://github.com/Gargi2003/Gargi2003/blob/main/Login-page.jpg" width="200px" height="120px"> 
+  <img src="https://github.com/Gargi2003/Gargi2003/blob/main/chat-page.jpg" width="200px" height="120px">
+</a>
+
+</ul>
+</div>
