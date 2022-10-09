@@ -73,5 +73,12 @@
   <img src="https://github.com/Gargi2003/Gargi2003/blob/main/chat-page.jpg" width="200px" height="120px">
 </a>
 
+<li> <a href="https://gargi-portfolio.netlify.app/"> Portfolio </a></li>
+
+<a href="https://gargi-portfolio.netlify.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gargi2003&repo=Portfolio&theme=solarized-light&layout=compact">
+  <img src="https://github.com/Gargi2003/Gargi2003/blob/main/Login-page.jpg" width="200px" height="120px"> 
+  <img src="https://github.com/Gargi2003/Gargi2003/blob/main/chat-page.jpg" width="200px" height="120px">
+</a>
 </ul>
 </div>
