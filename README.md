@@ -1,7 +1,7 @@
 <p align="center"><img height="100px" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"></p>
 <h1 align="center"> I'm Gargi Bandyopadhyay</h1>
 <img src="https://komarev.com/ghpvc/?username=gargi2003&label=Profile%20views&color=0e75b6&style=flat" alt="gargi2003" /> 
-<h4 align="center">A passionate Full Stack Developer.</h4>
+<h4 align="center">A passionate Software Developer.</h4>
 
 <p align="center"> <img src="https://miro.medium.com/max/1100/1*qdAW1TjCN57h1lbuuzvchg.gif" height="200px" width="300px"/> </p>
 
@@ -29,9 +29,9 @@
 
 <p align="center">
 
-- 🔭 I’m currently working as **Fullstack Engineering Analyst at Accenture**
+- 🔭 I’m currently working as **Software Engineer at Dell Technologies, Bangalore**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Golang,Kubernetes,Docker**
 
 - 💬 Ask me about **anything. I would be happy to help.**
 
